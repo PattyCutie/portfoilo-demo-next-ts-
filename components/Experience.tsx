@@ -30,7 +30,7 @@ const Experience = (props: Props) => {
     
       <div className="w-full flex space-x-5 overflow-x-scroll p-10
       snap-x snap-mandatory 
-      scrollbar-thin scrollbar-track-[#EC9EC0]/10 scrollbar-thumb-[#FF0080]/60">
+      scrollbar-thin scrollbar-track-[#EC9EC0]/10 scrollbar-thumb-[#FF0080]/60 scrollbar-thumb-rounded">
         
         <ExpCard />
         <ExpCard />
