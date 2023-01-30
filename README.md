@@ -1,3 +1,7 @@
+####### PLEASE DO NOT Copy my code without learning anything :) 
+I have Code along with tutorial and i have done some small changes after and you try it the same ##########
+Learn to code for this repo at https://www.youtube.com/watch?v=urgi2iz9P6U&t=12330s
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
