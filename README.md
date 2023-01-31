@@ -1,6 +1,8 @@
-####### PLEASE DO NOT Copy my code without learning anything :) 
-I have done this repo along with the tutorial and I also have done some small changes after to 
-make myself understand how to code way better and you try it the same ##########
+####### PLEASE DO NOT COPY AND PASTE my repo
+and pretend that is all the code you have created without learning anything :)
+Let's use the code or repo as Reference, not just copy and paste #######
+I have done this lesson along with the tutorial and I also have done some small changes after to 
+make myself understand how to code way better and you should try it the same ##########
 --Original work from Sonny Sangha--
 Learn to code for this repo at https://www.youtube.com/watch?v=urgi2iz9P6U&t=12330s
 
