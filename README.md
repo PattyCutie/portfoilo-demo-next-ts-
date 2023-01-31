@@ -1,3 +1,4 @@
+See demo at https://pattycutie.github.io/portfoilo-demo-next-ts-/
 ####### PLEASE DO NOT COPY AND PASTE my repo
 and pretend that is all the code you have created without learning anything :)
 Let's use the code or repo as Reference, not just copy and paste #######
